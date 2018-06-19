@@ -13,5 +13,6 @@ function scuberGreetingForFeet(someValue) {
 }
 
 function ternaryCheckCity(){
-  
+  let result
+  return result
 }
