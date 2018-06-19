@@ -5,4 +5,4 @@ function scuberGreetingForFeet(someValue) {
     result = 'This one is on me!'
   }
   return result
-};
+}
